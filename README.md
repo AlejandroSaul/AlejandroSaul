@@ -1,4 +1,4 @@
-# Hi there! <AVATAR_PLACEHOLDER> Welcome to My GitHub
+# Hi there!  Welcome to My GitHub
 
 ## 🚀 Full Stack Software Engineer | Alejandro Saul
 
@@ -44,13 +44,6 @@ My favorite language is **Java**, followed closely by **Python**, and I enjoy le
 
 ## 📫 Contact Me
 - **LinkedIn:** www.linkedin.com/in/alejandro-saul-baños-vega-900105229  
-- **GitHub:** *(you can add your username here if you want)*
-
----
-
-## 📌 GitHub Stats (Auto-generated)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
 
 ---
 
