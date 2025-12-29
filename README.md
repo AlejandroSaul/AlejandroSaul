@@ -32,7 +32,7 @@ My favorite language is **Java**, followed closely by **Python**, and I enjoy le
 - Apache Struts
 - REST/SOAP APIs  
 - Postman
-- Git & GitHub  
+- Git & GitHub
 - Eclipse
 - VsCode
 - Oracle SQL
