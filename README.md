@@ -16,15 +16,27 @@ My favorite language is **Java**, followed closely by **Python**, and I enjoy le
 ---
 
 ## 🧰 Tech Stack
-### **Languages**
-- **Java**, **Python**, JavaScript, SQL
+### **Programming Languages**
+- **Java**, **Python**, JavaScript, PL/SQL
+
+### **Other Languages**
+- **HTML**, **CSS**, **SQL**, **XML**
 
 ### **Frameworks & Tools**
 - Spring Boot  
 - Hibernate / JPA  
+- Weblogic
+- JDBC
 - React  
-- REST APIs  
+- ExtJS
+- Apache Struts
+- REST/SOAP APIs  
+- Postman
 - Git & GitHub  
+- Eclipse
+- VsCode
+- Oracle SQL
+- MySQL
 
 ---
 
